@@ -31,7 +31,7 @@ There should be one horizontal navigation bar on every page so that it should be
 
 3: Add new shop items 
 
-4: 
+4: Showcase only senior staff on about page
 
 ### Purpose
 
